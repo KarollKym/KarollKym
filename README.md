@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div style="width: 125; height: 125">
+<div min-width="125" max-width="125" width="125" align="center">
   
   [![Logo](./logo.svg)](https://www.google.com/)
 
