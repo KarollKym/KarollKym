@@ -2,7 +2,7 @@
   
   <img src="./logo.svg" min-width="125" max-width="125" width="125" align="center" alt="Logo" />
 
-  # Codelândia Challenges
+  ### Codelândia Challenges
   
   <p>
     Projects by group codelândia.
